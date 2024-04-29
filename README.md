@@ -24,18 +24,7 @@ MediBooker is a web application that provides users with a comprehensive directo
 - **Authentication**: Implements secure user authentication and authorization mechanisms for data protection and privacy.
 - **Deployment**: Deployed on platforms like Heroku, AWS, or Docker for accessibility and scalability.
 
-## Getting Started
 
-To get started with MediBooker locally:
-1. Clone the repository: `git clone https://github.com/yourusername/MediBooker.git`
-2. Navigate to the backend directory: `cd MediBooker/backend`
-3. Set up the backend environment and run the server according to backend README instructions.
-4. Navigate to the frontend directory: `cd ../frontend`
-5. Install dependencies: `npm install`
-6. Start the frontend development server: `npm start`
-7. Connect the frontend and backend to start testing and developing features.
-
-For detailed instructions and specific setup steps, refer to the README.md files in the backend and frontend directories.
 
 ## Contribution Guidelines
 
@@ -44,5 +33,3 @@ Contributions to MediBooker are welcome! Here's how you can contribute:
 - Fork the repository, make changes, and submit pull requests for review.
 - Participate in discussions and share ideas for project improvements.
 - Spread the word and encourage others to use and contribute to MediBooker.
-
-## License
