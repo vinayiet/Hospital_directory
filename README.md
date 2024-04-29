@@ -22,7 +22,7 @@ MediBooker is a web application that provides users with a comprehensive directo
 - **API Integration**: Implements RESTful APIs for communication between the frontend and backend, enabling data exchange and business logic execution.
 - **Chatbot Integration**: Includes a Python-based chatbot using NLP libraries for intelligent conversation handling and user assistance.
 - **Authentication**: Implements secure user authentication and authorization mechanisms for data protection and privacy.
-- **Deployment**: Deployed on platforms like Heroku, AWS, or Docker for accessibility and scalability.
+- **Deployment**: Deployed on platform Heroku.
 
 
 
